@@ -6,6 +6,7 @@ import About from './pages/About';
 import Login from './pages/Login';
 import Register from './pages/Register';
 import Dashboard from './pages/Dashboard';
+import './styles/styles.css';  // Import the CSS file
 
 const App = () => {
   return (
@@ -22,3 +23,4 @@ const App = () => {
 };
 
 export default App;
+
